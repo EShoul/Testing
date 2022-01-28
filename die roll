@@ -1,0 +1,2 @@
+let numberofSides = 6;
+console.log('A '+Math.floor(Math.random()*numberofSides)+' was rolled!');
